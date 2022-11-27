@@ -1,0 +1,3 @@
+/home/johar/Escritorio/Hex_Game-main/cmake-build-debug/CMakeFiles/Hex_Game.dir
+/home/johar/Escritorio/Hex_Game-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/johar/Escritorio/Hex_Game-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
